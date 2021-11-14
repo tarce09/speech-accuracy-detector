@@ -1,7 +1,7 @@
 # speech-accuracy-detector
 
 
-requirements
-pip install SpeechRecognition
-pip install pipwin
-pipwin install pyaudio
+requirements<br>
+pip install SpeechRecognition<br>
+pip install pipwin<br>
+pipwin install pyaudio<br>
